@@ -41,4 +41,14 @@ This project focuses on UI state management, CSS variables, and smooth user expe
 1. The button toggles the `light-theme` class on `<body>`
 2. CSS variables update colors, background and shadows automatically
 3. JavaScript checks the current theme state
-4. Icon,
+4. Icon.
+
+
+## 📬 Contact
+
+If you’d like to work together, have questions, or want to give feedback, feel free to reach out:
+
+- **Name:** Gabriel Wyli  
+- **Email:** gabrielwyli54@gmail.com  
+
+I’m open to freelance opportunities, small frontend projects, and collaborations.
