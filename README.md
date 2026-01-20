@@ -1,5 +1,9 @@
 # Theme Switcher (Dark & Light Mode)
 
+## Preview
+
+![Theme Toggle Preview](preview.gif)
+
 A clean and minimal **Dark / Light Mode toggle** built with **HTML, CSS and Vanilla JavaScript**.  
 This project focuses on UI state management, CSS variables, and smooth user experience transitions.
 
